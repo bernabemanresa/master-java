@@ -1,4 +1,4 @@
-package com.bernabe.FlowControl;
+package com.bernabe.flowControl;
 
 public class ForeachExample {
 
