@@ -8,7 +8,7 @@ public class ForeachExample {
       System.out.println("num = " + num);
     }
 
-    String[] names = {"Jpah", "Paul", "Ringo", "Georde"};
+    String[] names = {"John", "Paul", "Ringo", "George"};
     for (String name : names) {
       System.out.println("name = " + name);
     }
