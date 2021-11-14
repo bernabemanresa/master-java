@@ -1,4 +1,4 @@
-package com.bernabe.recursion.model;
+package com.bernabe.model;
 
 import java.util.ArrayList;
 import java.util.List;
