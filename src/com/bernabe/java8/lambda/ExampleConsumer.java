@@ -1,4 +1,4 @@
-package com.bernabe.java8.Lambda;
+package com.bernabe.java8.lambda;
 
 import java.text.SimpleDateFormat;
 import java.util.Arrays;

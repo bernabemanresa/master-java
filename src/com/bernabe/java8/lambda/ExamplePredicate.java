@@ -1,4 +1,4 @@
-package com.bernabe.java8.Lambda;
+package com.bernabe.java8.lambda;
 
 import java.util.function.BiPredicate;
 import java.util.function.Predicate;
