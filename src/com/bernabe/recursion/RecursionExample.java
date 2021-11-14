@@ -2,7 +2,7 @@ package com.bernabe.recursion;
 
 import java.util.stream.Stream;
 
-import com.bernabe.model.Component;
+import com.bernabe.recursion.model.Component;
 
 public class RecursionExample {
 

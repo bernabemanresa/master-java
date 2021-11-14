@@ -1,4 +1,4 @@
-package com.bernabe.model;
+package com.bernabe.java8.lambda.model;
 
 public class User {
   private String name;

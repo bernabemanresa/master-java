@@ -8,7 +8,7 @@ import java.util.Locale;
 import java.util.function.BiConsumer;
 import java.util.function.Consumer;
 
-import com.bernabe.model.User;
+import com.bernabe.java8.lambda.model.User;
 
 public class ExampleConsumer {
 
